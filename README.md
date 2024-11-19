@@ -19,7 +19,7 @@ This application is a simple project aimed at demonstrating fundamental concepts
 ### Clone the repository:
 
 ```bash
-gh repo clone EtharAlshrqawy/Java-Projects--Faculty-Data-and-Simple-Calculator
+git clone https://github.com/EtharAlshrqawy/Java-Projects--Faculty-Data.git
 cd Java-Projects
 ```
 
