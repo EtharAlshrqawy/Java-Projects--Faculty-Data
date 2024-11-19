@@ -20,11 +20,8 @@ These applications are simple projects aimed at demonstrating fundamental concep
 - **SimpleCalculator.java**  
   A Java program that takes two numbers as input and performs arithmetic operations such as addition, subtraction, division, and modulo.
 
-## Getting Started
-
-To run these applications, make sure you have Java installed on your system. You can run the programs using the following steps:
-
-### 1. Clone the repository:
+## Getting Started:
+### Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Java-Projects.git
